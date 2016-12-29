@@ -10,8 +10,8 @@ Scissors decapitates Lizard<br/>
 Lizard eats Paper<br/>
 Paper disproves Spock<br/>
 Spock vaporizes Rock<br/>
- Rock crushes Scissors<br/>
- Rules to win:<br/><br/>
+ Rock crushes Scissors<br/><br/>
+ Rules to win:<br/>
  You will play n times against the computer <br/>
  If you win more then the computer then you win otherwize the computer wins <br/>
  The computer automatically adds points to the winner <br/>
